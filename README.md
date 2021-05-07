@@ -1,4 +1,4 @@
-# Wwise-Unpacker
+# Wwise Audio Unpacker
 Unpack game audio Wwise files (pck, wsp, bnk) From NieR Automata, NieR Replicant ver.1.22474487139 and others
 
 Here's the archive structure:
