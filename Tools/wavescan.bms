@@ -76,4 +76,5 @@ startfunction retrievename            # get possible file name from first marker
    getDstring MNAME MSIZE            # cursor is at the beginning of the label name, now get the marker name with the desired length MSIZE
    string NAME += "~"
    string NAME += MNAME            # add the marker name to the file name
+   string NAME R "/" "_"			# avoid subfolder creation
 endfunction
