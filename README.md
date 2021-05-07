@@ -1,8 +1,6 @@
 # Wwise-Unpacker
 Unpack game audio Wwise files (pck, wsp, bnk) From NieR Automata, NieR Replicant ver.1.22474487139 and others (full support to be added)
 
-**This guide is for Windows-64bit only!** I'll be using the game Life is Strange **as an example**.
-
 Here's the archive structure:
 
 * Wwise Unpacker
