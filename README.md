@@ -18,6 +18,7 @@ Once finished you can find all decoded files inside the "Result" folder.
 
 **Where to find game music**
 Look for pck, wsp, bnk etc. files inside game folders. Look for large files, potentially with 'BGM', 'Music' in paths/names.
+
 For Bioshock Infinite: 
 * BioShock Infinite\XGame\Content\Audio\Packed\Windows\Packs\CombinedStreaming_SFX.pck
 
